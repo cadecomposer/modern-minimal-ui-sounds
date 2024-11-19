@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Modern Minimal UI
+Comment=Modern Minimal UI Sound Theme
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
