@@ -3,7 +3,7 @@ UI sounds adhering to the freedesktop naming standard, made in REAPER using Vita
 
 These sounds are designed for use with compatible Linux desktops. Feel free if you would like to use them on Windows and the like, however you will have to manually select the sounds in the settings as I will not be providing a .bat script.
 
-## How to install (Linux)
+## How to install (GNOME and KDE Plasma 6+ tested & supported)
 
 1. Make the directory ~/.local/share/sounds if it does not already exist, and `cd` into it
 
