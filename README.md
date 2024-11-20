@@ -7,7 +7,8 @@ These sounds are designed for use with compatible Linux desktops. Feel free if y
 
 1. Make the directory ~/.local/share/sounds if it does not already exist, and `cd` into it
 
-`mkdir -p ~/.local/share/sounds && cd ~/.local/share/sounds`
+`mkdir -p ~/.local/share/sounds`  
+`cd ~/.local/share/sounds`
 
 2. Clone the repository
 
