@@ -18,7 +18,7 @@ These sounds are designed for use with compatible Linux desktops, namely GNOME a
 3. Enable the sound theme
   - In KDE Plasma 6, in Settings under Appearance & Style, click on Colors & Themes > System Sounds and select "Modern Minimal UI"
   - In GNOME, install `gnome-tweaks` package for your distribution, then open Tweaks and go to Sound > System Sound Theme and select "Modern Minimal UI"
-  - In other desktop environments (such as Cinnamon), you may need to manually add individual sounds with a settings panel, or sound themes may not be supported
+  - Cinnamon (Linux Mint) doesn't use the same method because of the way its sound theme is handled, so you will have to go into the Sound settings and set each sound manually. There may be a way to script this, but I am not confident enough to write a script to do that (I'm not much of a programmer).
 
 NOTE: If you cannot open the REAPER project file, you may need to install [Reapack](https://reapack.com/) with [BirdBird's Global Sampler JSFX](https://forum.cockos.com/showthread.php?p=2506514), as well as [SWS extensions](https://www.sws-extension.org/). I have not tested this on other computers, so let me know if you run into any issues and I can try to help.
 
